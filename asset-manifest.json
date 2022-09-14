@@ -9,7 +9,7 @@
     "787.f587e8d5.chunk.js.map": "/blog/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "/blog/static/css/main.bc33a65d.css",
-    "/blog/static/js/main.93a3702c.js"
+    "static/css/main.bc33a65d.css",
+    "static/js/main.93a3702c.js"
   ]
 }
